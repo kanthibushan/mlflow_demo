@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops/mlflow/mlruns/0/33ab5f0294164938b666ad2292ca58d7/artifacts
+end_time: 1750389267565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33ab5f0294164938b666ad2292ca58d7
+run_name: kindly-worm-323
+run_uuid: 33ab5f0294164938b666ad2292ca58d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750389265684
+status: 3
+tags: []
+user_id: kmyre
